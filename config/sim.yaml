@@ -44,8 +44,8 @@ bridge:
     # map parameters
     # map_path: '/home/chris/sim_ws/src/global_planning/maps/mco'
     # map_path: '/home/chris/sim_ws/src/global_planning/maps/esp'
-    map_path: '/home/chris/sim_ws/src/global_planning/maps/map3'
-    # map_path: '/home/chris/sim_ws/src/global_planning/maps/gbr'
+    # map_path: '/home/chris/sim_ws/src/global_planning/maps/map3'
+    map_path: '/home/chris/sim_ws/src/global_planning/maps/gbr'
     # map_path: '/home/chris/sim_ws/src/global_planning/maps/aut'
 
     map_img_ext: ".png"
